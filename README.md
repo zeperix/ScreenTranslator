@@ -84,7 +84,7 @@ Answers to some frequently asked questions can be found in issues or
 ## Build from source
 
 Look at the scripts (python3) in the `share/ci` folder.
-Normally, you should only edit the `config.py` file.
+Normally, you should only edit the `config.py` file
 
 Build dependencies at first, then build the app.
 
